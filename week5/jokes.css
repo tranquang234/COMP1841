@@ -1,0 +1,6 @@
+body {font-family:Arial, sans-serif; background:#f7f7f7;}
+.container {max-width:900px; margin:0 auto; background:#fff; padding:20px;}
+nav ul {list-style:none; display:flex; gap:10px;}
+nav a {padding:6px 10px; background:#2b6cb0; color:#fff; border-radius:5px; text-decoration:none;}
+.joke {border-bottom:1px solid #eee; padding:10px 0;}
+.error {color:red;}
